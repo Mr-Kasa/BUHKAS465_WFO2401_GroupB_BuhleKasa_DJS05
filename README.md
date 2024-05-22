@@ -3,3 +3,5 @@ This project implements a simple tally counter using a Redux-inspired store syst
 
 
 Run the Application: Execute the command {npm run start} in the terminal. This will run the script and output the results of
+
+I did not run into problems after i understood the concept of redux state management
