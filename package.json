@@ -1,0 +1,13 @@
+{
+  "name": "tally-app",
+  "version": "1.0.0",
+  "description": "",
+  "main": "model/index.js",
+  "type": "module",
+  "scripts": {
+    "start": "node model/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}

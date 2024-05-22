@@ -21,11 +21,15 @@ store.subscribe(() => {
 console.log('Initial state:', store.getState()); // Should log { count: 0 }
 
 //Incrementing the Counter
-store.dispatch(addAction()); // count should be 1
-store.dispatch(addAction()); // count should be 2
+store.dispatch(addAction()); 
+store.dispatch(addAction()); 
+store.dispatch(addAction()); 
+store.dispatch(addAction()); 
+store.dispatch(addAction()); 
+store.dispatch(addAction()); 
 
 // Decrementing the Counter
-store.dispatch(subtractAction()); // count should be 1
+store.dispatch(subtractAction()); 
 
 // Resetting the Counter
-store.dispatch(resetAction()); // count should be 0
+store.dispatch(resetAction()); 
