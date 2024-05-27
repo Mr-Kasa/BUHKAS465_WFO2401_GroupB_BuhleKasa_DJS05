@@ -30,6 +30,9 @@ store.dispatch(addAction());
 
 // Decrementing the Counter
 store.dispatch(subtractAction()); 
+store.dispatch(subtractAction())
+store.dispatch(subtractAction())
+store.dispatch(subtractAction())
 
 // Resetting the Counter
 store.dispatch(resetAction()); 
